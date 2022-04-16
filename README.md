@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hugoliao330
-- 👀 I’m interested in web development in both front and back ends.
+- 👀 I’m interested in software development.
 - 🌱 I’m learning CesiumJS 3d modelling.
 - 💞️  I’m currently looking for an SDE job 🤣
 - 📫 How to reach me:
